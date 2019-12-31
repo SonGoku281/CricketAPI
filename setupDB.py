@@ -51,27 +51,14 @@ def closeConnection(conn):
     if conn is not None:
         conn.close()
 
-def createTable(cur,tableName):
-    statements = ("""CREATE TABLE public.matchinfo
-(
-    "matchID" uuid NOT NULL,
-    "venueID" uuid NOT NULL,
-    gender cstring[] NOT NULL,
-    "matchType" cstring[] NOT NULL,
-    overs numeric NOT NULL,
-    "matchResultID" uuid NOT NULL,
-    PRIMARY KEY ("matchID")
-)
-WITH (
-    OIDS = FALSE
-)""",
-
-"""ALTER TABLE public.matchinfo
-    OWNER to postgres;
-COMMENT ON TABLE public.matchinfo
-    IS 'Contians the information of a particular match'""")
-    cur.execute()
-
+def createTable(cur):
+    sqlCreateMatchInfoTable = "create table matchInfo ( matchID uuid NOT NULL, venueID uuid NOT NULL, gender varchar NOT NULL, matchType varchar NOT NULL, overs numeric NOT NULL, matchResultID uuid NOT NULL,PRIMARY KEY (matchID))"
+    sqlCreateMatchResultTable = "create table matchResult ( matchResultID uuid NOT NULL, matchID uuid NOT NULL, firstTeam uuid NOT NULL, secondTeam uuid NOT null, result varchar NOT NULL, winningTeam uuid , playerOfMAtch uuid, toss uuid, PRIMARY KEY (matchResultID))"
+    sqlCreateVenueTable = "create table venue ( venueID uuid NOT NULL, country varchar NOT NULL , city varchar NOT NULL, stadium varchar NOT NULL, PRIMARY KEY (venueID))"
+    cur.execute(sqlCreateMatchInfoTable)
+    cur.execute(sqlCreateMatchResultTable)
+    cur.execute(sqlCreateVenueTable)
+    return
 
 def createDBTables(conn):
     cur = conn.cursor()
