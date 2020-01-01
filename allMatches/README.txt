@@ -1,5 +1,5 @@
 This zip archive contains data files from Cricsheet in YAML format. This
-archive contains 4755 matches.
+archive contains 4874 matches.
 
 
 The data files contained in this zip file are version 0.9 files, which is the
@@ -22,6 +22,13 @@ as IPL). The 4th field is the gender of the players involved in the match. The
 teams involved in the match.
 
 
+2019-12-29 - club - BBL - male - 1195587 - Melbourne Renegades vs Adelaide Strikers
+2019-12-28 - club - BBL - male - 1195586 - Sydney Sixers vs Sydney Thunder
+2019-12-27 - club - BBL - male - 1195585 - Melbourne Stars vs Adelaide Strikers
+2019-12-26 - international - Test - male - 1183533 - Australia vs New Zealand
+2019-12-26 - international - Test - male - 1185304 - South Africa vs England
+2019-12-26 - club - BBL - male - 1195584 - Perth Scorchers vs Sydney Sixers
+2019-12-24 - club - BBL - male - 1195583 - Hobart Hurricanes vs Melbourne Renegades
 2019-12-23 - club - BBL - male - 1195582 - Adelaide Strikers vs Perth Scorchers
 2019-12-22 - international - ODI - male - 1187023 - India vs West Indies
 2019-12-22 - club - BBL - male - 1195580 - Melbourne Stars vs Hobart Hurricanes
@@ -254,6 +261,9 @@ teams involved in the match.
 2019-09-22 - international - ODI - male - 1199229 - Namibia vs Papua New Guinea
 2019-09-22 - international - ODM - male - 1200445 - Canada vs Qatar
 2019-09-22 - international - ODM - male - 1200446 - Singapore vs Vanuatu
+2019-09-21 - club - NTB - male - 1167257 - Nottinghamshire vs Worcestershire
+2019-09-21 - club - NTB - male - 1167258 - Derbyshire vs Essex
+2019-09-21 - club - NTB - male - 1167259 - Worcestershire vs Essex
 2019-09-21 - international - T20 - male - 1197145 - Bangladesh vs Afghanistan
 2019-09-20 - international - T20 - male - 1197144 - Afghanistan vs Zimbabwe
 2019-09-20 - international - T20 - female - 1197248 - Hong Kong vs Japan
@@ -283,17 +293,21 @@ teams involved in the match.
 2019-09-13 - international - ODI - male - 1199225 - United States of America vs Papua New Guinea
 2019-09-12 - international - Test - male - 1152850 - England vs Australia
 2019-09-11 - international - ODI - female - 1198474 - West Indies vs Australia
+2019-09-07 - club - NTB - male - 1167256 - Gloucestershire vs Derbyshire
 2019-09-07 - international - T20 - female - 1196033 - Rwanda vs Nigeria
 2019-09-07 - international - T20 - female - 1197063 - Ireland vs Papua New Guinea
 2019-09-07 - international - T20 - female - 1197064 - Namibia vs United States of America
 2019-09-07 - international - T20 - female - 1197065 - Bangladesh vs Thailand
 2019-09-07 - international - T20 - female - 1197066 - Scotland vs Netherlands
+2019-09-06 - club - NTB - male - 1167255 - Sussex vs Worcestershire
 2019-09-06 - international - T20 - male - 1192877 - Sri Lanka vs New Zealand
+2019-09-05 - club - NTB - male - 1167254 - Nottinghamshire vs Middlesex
 2019-09-05 - international - T20 - female - 1197059 - Bangladesh vs Ireland
 2019-09-05 - international - T20 - female - 1197061 - Papua New Guinea vs Thailand
 2019-09-05 - international - T20 - female - 1197062 - Scotland vs Namibia
 2019-09-05 - international - Test - male - 1197138 - Bangladesh vs Afghanistan
 2019-09-04 - international - Test - male - 1152849 - England vs Australia
+2019-09-04 - club - NTB - male - 1167253 - Lancashire vs Essex
 2019-09-03 - international - T20 - male - 1192876 - Sri Lanka vs New Zealand
 2019-09-03 - international - T20 - female - 1197055 - Ireland vs Thailand
 2019-09-03 - international - T20 - female - 1197056 - Namibia vs Netherlands
@@ -306,15 +320,46 @@ teams involved in the match.
 2019-09-01 - international - T20 - female - 1197053 - Ireland vs Netherlands
 2019-09-01 - international - T20 - female - 1197054 - Bangladesh vs United States of America
 2019-08-31 - international - T20 - female - 1197049 - Scotland vs United States of America
+2019-08-30 - club - NTB - male - 1167245 - Glamorgan vs Hampshire
+2019-08-30 - club - NTB - male - 1167246 - Nottinghamshire vs Durham
+2019-08-30 - club - NTB - male - 1167247 - Lancashire vs Leicestershire
+2019-08-30 - club - NTB - male - 1167248 - Somerset vs Middlesex
+2019-08-30 - club - NTB - male - 1167249 - Sussex vs Gloucestershire
+2019-08-30 - club - NTB - male - 1167250 - Birmingham Bears vs Yorkshire
+2019-08-30 - club - NTB - male - 1167251 - Essex vs Kent
+2019-08-30 - club - NTB - male - 1167252 - Northamptonshire vs Worcestershire
 2019-08-30 - international - Test - male - 1188629 - West Indies vs India
 2019-08-30 - international - T20 - female - 1198219 - Singapore vs Malaysia
+2019-08-29 - club - NTB - male - 1167241 - Kent vs Gloucestershire
+2019-08-29 - club - NTB - male - 1167242 - Surrey vs Essex
+2019-08-29 - club - NTB - male - 1167243 - Yorkshire vs Northamptonshire
+2019-08-29 - club - NTB - male - 1167244 - Hampshire vs Middlesex
 2019-08-29 - international - T20 - female - 1198218 - Singapore vs Malaysia
 2019-08-28 - international - T20 - female - 1198217 - Singapore vs Malaysia
+2019-08-27 - club - NTB - male - 1167238 - Surrey vs Somerset
+2019-08-27 - club - NTB - male - 1167239 - Durham vs Birmingham Bears
+2019-08-26 - club - NTB - male - 1167236 - Glamorgan vs Sussex
+2019-08-26 - club - NTB - male - 1167237 - Lancashire vs Derbyshire
+2019-08-25 - club - NTB - male - 1167231 - Leicestershire vs Derbyshire
+2019-08-25 - club - NTB - male - 1167232 - Hampshire vs Essex
+2019-08-25 - club - NTB - male - 1167233 - Worcestershire vs Lancashire
+2019-08-25 - club - NTB - male - 1167234 - Birmingham Bears vs Northamptonshire
+2019-08-25 - club - NTB - male - 1167235 - Nottinghamshire vs Yorkshire
 2019-08-25 - international - T20 - male - 1197406 - Canada vs United States of America
 2019-08-25 - international - T20 - male - 1197407 - Bermuda vs Cayman Islands
+2019-08-24 - club - NTB - male - 1167229 - Somerset vs Glamorgan
+2019-08-24 - club - NTB - male - 1167230 - Middlesex vs Sussex
 2019-08-24 - international - T20 - male - 1197404 - Cayman Islands vs United States of America
+2019-08-23 - club - NTB - male - 1167223 - Kent vs Surrey
+2019-08-23 - club - NTB - male - 1167224 - Durham vs Yorkshire
+2019-08-23 - club - NTB - male - 1167225 - Birmingham Bears vs Worcestershire
+2019-08-23 - club - NTB - male - 1167226 - Derbyshire vs Northamptonshire
+2019-08-23 - club - NTB - male - 1167227 - Leicestershire vs Nottinghamshire
+2019-08-23 - club - NTB - male - 1167228 - Gloucestershire vs Somerset
 2019-08-23 - international - T20 - male - 1197510 - Namibia vs Botswana
 2019-08-22 - international - Test - male - 1152848 - England vs Australia
+2019-08-22 - club - NTB - male - 1167221 - Sussex vs Essex
+2019-08-22 - club - NTB - male - 1167222 - Middlesex vs Hampshire
 2019-08-22 - international - Test - male - 1188628 - West Indies vs India
 2019-08-22 - international - Test - male - 1192874 - Sri Lanka vs New Zealand
 2019-08-22 - international - T20 - male - 1197402 - Canada vs Cayman Islands
@@ -332,45 +377,119 @@ teams involved in the match.
 2019-08-18 - international - T20 - male - 1197396 - Bermuda vs United States of America
 2019-08-18 - international - T20 - male - 1197397 - Canada vs Cayman Islands
 2019-08-17 - international - ODI - male - 1196672 - Scotland vs Papua New Guinea
+2019-08-15 - club - NTB - male - 1167210 - Durham vs Worcestershire
+2019-08-15 - club - NTB - male - 1167211 - Surrey vs Sussex
+2019-08-15 - club - NTB - male - 1167212 - Derbyshire vs Leicestershire
 2019-08-15 - international - ODI - male - 1196671 - Scotland vs Oman
 2019-08-14 - international - Test - male - 1152847 - England vs Australia
+2019-08-14 - club - NTB - male - 1167209 - Northamptonshire vs Lancashire
 2019-08-14 - international - ODI - male - 1188626 - West Indies vs India
 2019-08-14 - international - T20 - female - 1190754 - Ireland vs Scotland
 2019-08-14 - international - T20 - female - 1190755 - Netherlands vs Thailand
 2019-08-14 - international - Test - male - 1192873 - Sri Lanka vs New Zealand
 2019-08-14 - international - ODI - male - 1196670 - Oman vs Papua New Guinea
+2019-08-13 - club - NTB - male - 1167205 - Gloucestershire vs Hampshire
+2019-08-13 - club - NTB - male - 1167206 - Derbyshire vs Worcestershire
 2019-08-13 - international - T20 - female - 1190752 - Ireland vs Thailand
 2019-08-13 - international - T20 - female - 1190753 - Netherlands vs Scotland
 2019-08-12 - international - T20 - female - 1190750 - Scotland vs Thailand
 2019-08-12 - international - T20 - female - 1190751 - Netherlands vs Ireland
+2019-08-11 - club - NTB - male - 1167201 - Birmingham Bears vs Lancashire
+2019-08-11 - club - NTB - male - 1167202 - Middlesex vs Gloucestershire
+2019-08-11 - club - NTB - male - 1167203 - Glamorgan vs Surrey
+2019-08-11 - club - NTB - male - 1167204 - Yorkshire vs Derbyshire
 2019-08-11 - international - ODI - male - 1188625 - West Indies vs India
+2019-08-10 - club - NTB - male - 1167198 - Somerset vs Kent
 2019-08-10 - international - T20 - female - 1190749 - Ireland vs Scotland
+2019-08-09 - club - NTB - male - 1167191 - Derbyshire vs Durham
+2019-08-09 - club - NTB - male - 1167192 - Glamorgan vs Essex
+2019-08-09 - club - NTB - male - 1167193 - Hampshire vs Somerset
+2019-08-09 - club - NTB - male - 1167194 - Surrey vs Gloucestershire
+2019-08-09 - club - NTB - male - 1167195 - Sussex vs Middlesex
+2019-08-09 - club - NTB - male - 1167196 - Birmingham Bears vs Nottinghamshire
+2019-08-09 - club - NTB - male - 1167197 - Leicestershire vs Northamptonshire
 2019-08-09 - international - T20 - female - 1190746 - Netherlands vs Scotland
 2019-08-09 - international - T20 - female - 1190747 - Ireland vs Thailand
+2019-08-08 - club - NTB - male - 1167189 - Middlesex vs Surrey
 2019-08-08 - international - ODI - male - 1188624 - West Indies vs India
 2019-08-08 - international - T20 - female - 1190744 - Netherlands vs Ireland
 2019-08-08 - international - T20 - male - 1191008 - Netherlands vs United Arab Emirates
+2019-08-07 - club - NTB - male - 1167185 - Gloucestershire vs Kent
+2019-08-07 - club - NTB - male - 1167186 - Essex vs Somerset
+2019-08-07 - club - NTB - male - 1167187 - Northamptonshire vs Durham
+2019-08-07 - club - NTB - male - 1167188 - Leicestershire vs Birmingham Bears
+2019-08-06 - club - NTB - male - 1167184 - Sussex vs Glamorgan
 2019-08-06 - international - T20 - male - 1188623 - West Indies vs India
 2019-08-05 - international - T20 - male - 1191006 - Netherlands vs United Arab Emirates
+2019-08-04 - club - NTB - male - 1167179 - Kent vs Hampshire
+2019-08-04 - club - NTB - male - 1167180 - Middlesex vs Somerset
+2019-08-04 - club - NTB - male - 1167181 - Gloucestershire vs Sussex
+2019-08-04 - club - NTB - male - 1167182 - Yorkshire vs Birmingham Bears
+2019-08-04 - club - NTB - male - 1167183 - Worcestershire vs Leicestershire
 2019-08-04 - international - T20 - male - 1188622 - India vs West Indies
+2019-08-03 - club - NTB - male - 1167178 - Lancashire vs Nottinghamshire
 2019-08-03 - international - T20 - male - 1188621 - India vs West Indies
+2019-08-02 - club - NTB - male - 1167170 - Yorkshire vs Worcestershire
+2019-08-02 - club - NTB - male - 1167171 - Sussex vs Kent
+2019-08-02 - club - NTB - male - 1167172 - Somerset vs Surrey
+2019-08-02 - club - NTB - male - 1167173 - Northamptonshire vs Derbyshire
+2019-08-02 - club - NTB - male - 1167174 - Gloucestershire vs Essex
+2019-08-02 - club - NTB - male - 1167175 - Durham vs Lancashire
+2019-08-02 - club - NTB - male - 1167176 - Hampshire vs Glamorgan
+2019-08-02 - club - NTB - male - 1167177 - Nottinghamshire vs Birmingham Bears
 2019-08-01 - international - Test - male - 1152846 - England vs Australia
+2019-08-01 - club - NTB - male - 1167167 - Essex vs Hampshire
+2019-08-01 - club - NTB - male - 1167168 - Middlesex vs Kent
+2019-08-01 - club - NTB - male - 1167169 - Glamorgan vs Gloucestershire
+2019-07-31 - club - NTB - male - 1167165 - Worcestershire vs Derbyshire
+2019-07-31 - club - NTB - male - 1167166 - Durham vs Leicestershire
 2019-07-31 - international - T20 - female - 1168028 - England vs Australia
 2019-07-31 - international - ODI - male - 1193506 - Sri Lanka vs Bangladesh
+2019-07-30 - club - NTB - male - 1167164 - Surrey vs Kent
+2019-07-28 - club - NTB - male - 1167160 - Worcestershire vs Durham
+2019-07-28 - club - NTB - male - 1167161 - Somerset vs Sussex
 2019-07-28 - international - T20 - female - 1168027 - England vs Australia
 2019-07-28 - international - T20 - male - 1190776 - Singapore vs Nepal
 2019-07-28 - international - ODI - male - 1193505 - Sri Lanka vs Bangladesh
+2019-07-27 - club - NTB - male - 1167159 - Nottinghamshire vs Leicestershire
 2019-07-27 - international - T20 - male - 1190774 - Kuwait vs Nepal
 2019-07-27 - international - T20 - male - 1190775 - Malaysia vs Qatar
+2019-07-26 - club - NTB - male - 1167150 - Northamptonshire vs Birmingham Bears
+2019-07-26 - club - NTB - male - 1167151 - Somerset vs Hampshire
+2019-07-26 - club - NTB - male - 1167152 - Leicestershire vs Durham
+2019-07-26 - club - NTB - male - 1167153 - Lancashire vs Worcestershire
+2019-07-26 - club - NTB - male - 1167154 - Kent vs Essex
+2019-07-26 - club - NTB - male - 1167155 - Derbyshire vs Nottinghamshire
+2019-07-26 - club - NTB - male - 1167156 - Sussex vs Surrey
+2019-07-26 - club - NTB - male - 1167157 - Glamorgan vs Middlesex
 2019-07-26 - international - T20 - female - 1168026 - England vs Australia
 2019-07-26 - international - T20 - male - 1190772 - Kuwait vs Qatar
 2019-07-26 - international - T20 - male - 1190773 - Singapore vs Malaysia
 2019-07-26 - international - ODI - male - 1193504 - Sri Lanka vs Bangladesh
+2019-07-25 - club - NTB - male - 1167147 - Yorkshire vs Lancashire
+2019-07-25 - club - NTB - male - 1167148 - Gloucestershire vs Middlesex
+2019-07-25 - club - NTB - male - 1167149 - Surrey vs Glamorgan
 2019-07-24 - international - Test - male - 1152839 - England vs Ireland
+2019-07-24 - club - NTB - male - 1167142 - Birmingham Bears vs Derbyshire
+2019-07-24 - club - NTB - male - 1167145 - Sussex vs Hampshire
+2019-07-24 - club - NTB - male - 1167146 - Nottinghamshire vs Northamptonshire
 2019-07-24 - international - T20 - male - 1190771 - Malaysia vs Nepal
+2019-07-23 - club - NTB - male - 1167143 - Leicestershire vs Yorkshire
+2019-07-23 - club - NTB - male - 1167144 - Surrey vs Middlesex
 2019-07-23 - international - T20 - male - 1190769 - Nepal vs Qatar
 2019-07-22 - international - T20 - male - 1190767 - Singapore vs Qatar
 2019-07-22 - international - T20 - male - 1190768 - Kuwait vs Malaysia
+2019-07-21 - club - NTB - male - 1167139 - Lancashire vs Durham
+2019-07-21 - club - NTB - male - 1167140 - Birmingham Bears vs Leicestershire
+2019-07-21 - club - NTB - male - 1167141 - Hampshire vs Kent
+2019-07-20 - club - NTB - male - 1167137 - Kent vs Somerset
+2019-07-20 - club - NTB - male - 1167138 - Derbyshire vs Yorkshire
+2019-07-19 - club - NTB - male - 1167130 - Durham vs Northamptonshire
+2019-07-19 - club - NTB - male - 1167131 - Essex vs Surrey
+2019-07-19 - club - NTB - male - 1167133 - Gloucestershire vs Glamorgan
+2019-07-18 - club - NTB - male - 1167127 - Middlesex vs Essex
+2019-07-18 - club - NTB - male - 1167128 - Nottinghamshire vs Worcestershire
+2019-07-18 - club - NTB - male - 1167129 - Glamorgan vs Somerset
 2019-07-18 - international - Test - female - 1168025 - England vs Australia
 2019-07-14 - international - ODI - male - 1144530 - England vs New Zealand
 2019-07-14 - international - T20 - male - 1168522 - Ireland vs Zimbabwe
